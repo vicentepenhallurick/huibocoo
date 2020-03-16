@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://veeyukaizi.projectstears.com/sitemap.xml
